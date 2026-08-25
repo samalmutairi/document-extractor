@@ -1,0 +1,5 @@
+# Primary PDF engine: classification (text/scanned/mixed) + markdown with page markers
+pdf-inspector
+
+# General converter (docx, pptx, xlsx, html, csv, epub, ...) + PDF fallback
+markitdown[pdf,docx,pptx,xlsx]
